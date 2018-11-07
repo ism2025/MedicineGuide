@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MedicineGuide</string>
+    <string name="groub_btn_text">حسب المجموعات</string>
+    <string name="department_btn_text">حسب الأقسام الطبية</string>
+    <string-array name="GroupsNames">
+        <item>لمجموعة 1</item>
+        <item>لمجموعة 2</item>
+        <item>لمجموعة 3</item>
+        <item>لمجموعة 4</item>
+        <item>لمجموعة 5</item>
+        <item>لمجموعة 6</item>
+        <item>لمجموعة 7</item>
+        <item>لمجموعة 8</item>
+        <item>لمجموعة 9</item>
+        <item>لمجموعة 10</item>
+        <item>لمجموعة 11</item>
+        <item>لمجموعة 12</item>
+        <item>لمجموعة 13</item>
+        <item>لمجموعة 14</item>
+        <item>لمجموعة 15</item>
+        <item>لمجموعة 16</item>
+        <item>لمجموعة 17</item>
+        <item>لمجموعة18</item>
+        <item>لمجموعة19</item>
+        <item>لمجموعة 20</item>
+
+    </string-array>
+    <string-array name="DeparmentNames">
+        <item>Deparment 1</item>
+        <item>Deparment 2</item>
+        <item>Deparment 3</item>
+        <item>Deparment 4</item>
+        <item>Deparment 5</item>
+        <item>Deparment 6</item>
+        <item>Deparment 7</item>
+        <item>Deparment 8</item>
+        <item>Deparment 9</item>
+        <item>Deparment 10</item>
+    </string-array>
+    <string-array name="Group1MedicinNames">
+        <item>Medicine 1 in Group 1</item>
+        <item>Medicine 2 in Group 1</item>
+        <item>Medicine 3 in Group 1</item>
+        <item>Medicine 4 in Group 1</item>
+        <item>Medicine 5 in Group 1</item>
+        <item>Medicine 6 in Group 1</item>
+        <item>Medicine 7 in Group 1</item>
+        <item>Medicine 8 in Group 1</item>
+        <item>Medicine 9 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+        <item>Medicine 10 in Group 1</item>
+    </string-array>
+
+</resources>

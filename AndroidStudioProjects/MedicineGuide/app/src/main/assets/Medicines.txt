@@ -1,0 +1,32 @@
+Medicine Name 1
+Group 1
+Department 1
+About Medicine 1
+Uses Medicine 1
+SideEffect Medicine 1
+Dose Medicine 1
+--------
+Medicine Name 2
+Group 1
+Department 1
+About Medicine 2
+Uses Medicine 2
+SideEffect Medicine 2
+Dose Medicine 2
+--------
+Medicine Name 3
+Group 1
+Department 2
+About Medicine 3
+Uses Medicine 3
+SideEffect Medicine 3
+Dose Medicine 3
+--------
+Medicine Name 4
+Group 1
+Department 4
+About Medicine 4
+Uses Medicine 4
+SideEffect Medicine 4
+Dose Medicine 4
+
